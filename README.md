@@ -19,14 +19,16 @@ The Following labs are available:
     Files included in lab: OCI_linux_vm_V2.pdf, oel_oci_setup.sh 
     The script oel_oci_setup.sh covers all commands in the lab document OCI_linux_vm_V2.pdf.
         
-    5) Oracle OCI Load balancer lab. This lab creates a service deployed on two Linux inctances in two availability domains, 
-    and cofigures the loadbalance service in front ot the services. 
+    5) Oracle OCI Load balancer lab. This lab creates a service deployed on two Linux inctances in two availability 
+    domains, and cofigures the loadbalance service in front ot the services. 
     Files included in the lab: OCI_Load_Balancer_Service v2.pdf
     
     6) Terraform lab, create a OCI infrastrutcure with several compute instances with Hashicorp Terraform. 
     Files included in lab: OCI_Terraform_V2.pdf and OCI_Terraform_V2.tar.gz
     
     7) Removal of password expiry for compuute instances and recovery if password on an instance has expired. 
-    Files included in lab: OCI_OEL_Password_lock_V2.pdf, OCI_oel_recover_from_pwd_rotation.sh, OCI_oel_remove_pwd_rotation.sh. 
-    The scripts OCI_oel_recover_from_pwd_rotation.sh and OCI_oel_remove_pwd_rotation.sh covers all commands in the lab document.
+    Files included in lab: OCI_OEL_Password_lock_V2.pdf, OCI_oel_recover_from_pwd_rotation.sh, 
+    OCI_oel_remove_pwd_rotation.sh. 
+    The scripts OCI_oel_recover_from_pwd_rotation.sh and OCI_oel_remove_pwd_rotation.sh covers all commands in 
+    the lab document.
     
