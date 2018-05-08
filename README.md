@@ -3,6 +3,8 @@ Collection of Hands On Labs for Oracle OCI Cloud
 
 The repository contains files for completing a serioes of Hands On Labs for Oracle Cloud Infrastrucutre OCI.
 
+It is recommended that you read the OCI_initialSetup lab first. This lab adds a few gothcas on the logon process.
+
 The Following labs are available:
 
     1) Allocate free trial. 
@@ -31,4 +33,9 @@ The Following labs are available:
     OCI_oel_remove_pwd_rotation.sh. 
     The scripts OCI_oel_recover_from_pwd_rotation.sh and OCI_oel_remove_pwd_rotation.sh covers all commands in 
     the lab document.
+    
+    8) Initial creation of database cloud service, Oracle DBCS, OCI_DatabaseCloudServicebasics_V2.pdf
+    
+    9) For benchmarking of the DBCS and local envrionment, we have created the performance labs, OCI_Loadtest_V2, with the load_test_package.zip, script colelction required to do the performance test.
+    10) The last lab is on how to establich conectivity bewteen on-prem and cloud over port 1521 in a secure manner. Please review  OCI_OpenPort1521_V1.pdf. This is a premliminary lab and will be extended
     
