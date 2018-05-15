@@ -5,6 +5,8 @@ The repository contains files for completing a serioes of Hands On Labs for Orac
 
 It is recommended that you read the OCI_initialSetup lab first. This lab adds a few gothcas on the logon process.
 
+For FN project, jump to note 11 below.
+
 The Following labs are available:
 
     1) Allocate free trial. 
@@ -38,4 +40,6 @@ The Following labs are available:
     
     9) For benchmarking of the DBCS and local envrionment, we have created the performance labs, OCI_Loadtest_V2, with the load_test_package.zip, script colelction required to do the performance test.
     10) The last lab is on how to establich conectivity bewteen on-prem and cloud over port 1521 in a secure manner. Please review  OCI_OpenPort1521_V1.pdf. This is a premliminary lab and will be extended
+    
+    11) For the FN, functions lab, please review OCI_Function_lab_V2.pdf, and http://fnproject.io/tutorials/ Cloud envrinments for instructor led session is provides in the zip file envs.zip
     
